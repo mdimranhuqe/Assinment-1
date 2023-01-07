@@ -1,0 +1,167 @@
+
+
+
+.allthink{
+
+    position: absolute;
+    width: 580px;
+    margin: 256px 260px 364px 1100px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+    color: #151414;
+    
+   
+}
+
+
+.banner{
+  
+   display: flex;
+   background-image: url(banner/banner1.png);
+   background-size: cover;
+   height: 1000px;
+  
+
+}
+
+.thereare
+{
+position: absolute;
+margin: 538px 230px 262px 1271px;
+width: 404px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+text-align: right;
+
+/* Dark 02 */
+
+color: #444343;
+}
+
+.btncontact{
+position: absolute;
+width: 160px;
+margin: 680px 280px 166px 1515px;
+
+padding: 0px 5px 6px 5px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+color: #FFFFFF;
+background: #fc4c06;
+border-radius: 5px;
+
+
+}
+.circule
+{
+position: absolute;
+width: 569px;
+height: 723.3px;
+left: 206px;
+top: 939px;
+}
+
+.center {
+    position: absolute;
+
+    height: auto;
+
+margin: 40px 15px 0px 217px;
+
+  }
+
+  .btnradius{
+    position: absolute;
+    width: 527.93px;
+    height: 527.93px;
+    left: 228.86px;
+    top: 1234.37px;
+    border-radius: 50%;
+    background: rgba(241, 91, 34, 0.2);
+   
+  }
+
+  .Myfailor
+  {
+    position: absolute;
+    width: 416px;
+    height: 400px;
+    left: 862px;
+    top: 1178px;
+    margin: 200px 0px 00px 217px;
+
+
+  }
+  .headingmyfailures
+  {
+    position: absolute;
+    width: 288px;
+    height: 94px;
+    margin: 250px 0px 0px 1070px;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    
+    /* Dark 01 */
+    
+    color: #151414;
+
+  }
+  .list
+  {
+
+position: absolute;
+width: 349px;
+height: 162px;
+margin: 500px 0px 0px 1062px;
+  }
+  .myplanefull
+  {
+    position: absolute;
+   
+    margin: 850px 0px 0px 1141px;
+
+  }
+
+
+  .myplane
+  {
+    position: absolute;
+    width: 179px;
+    height: 47px;
+    
+
+    margin: 850px 0px 0px 1141px;
+    font-weight: bold;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+    
+    
+    /* Dark 01 */
+    
+    color: #151414;
+    
+
+  }
+
